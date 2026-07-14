@@ -1,0 +1,34 @@
+{
+  "title": "Casual Hand-Drawn Photo Annotations",
+  "category": "image-generation",
+  "input": "A lifestyle, café, food, or interior photo",
+  "prompt": "Observe the photo carefully, identify its meaningful objects and atmosphere, and add tasteful hand-drawn annotations that respond specifically to what is visible. Keep the original photo intact and make the additions feel spontaneous, personal, and naturally placed.",
+  "visual_style": {
+    "linework": "Use thin white pen strokes with a loose, slightly uneven, single-line-drawing quality.",
+    "outlines": "Trace selected object silhouettes without covering important details.",
+    "guides": "Use small arrows, curved leaders, or dotted lines to connect notes to their subjects.",
+    "typography": "Use a cute, casual handwritten style with a subtle Japanese stationery aesthetic.",
+    "composition": "Keep the layout relaxed and asymmetrical, with intentional negative space."
+  },
+  "annotation_logic": {
+    "drinks": "Comment on flavor, temperature, or mood, such as 'light and refreshing' or 'just sweet enough.'",
+    "food": "Comment on texture or enjoyment, such as 'so fluffy' or 'dangerously good.'",
+    "space": "Comment on atmosphere, such as 'so calm here' or 'love this little corner.'",
+    "overall": "Add one short diary-like summary, such as 'a tiny happy moment today.'"
+  },
+  "decorations": [
+    "subtle steam lines",
+    "small sparkles",
+    "one or two hearts",
+    "tiny expressive faces"
+  ],
+  "avoid": [
+    "generic labels unrelated to visible objects",
+    "crowding every empty area",
+    "commercial banner styling",
+    "rigid grid-based typography",
+    "overly polished graphic-design layouts",
+    "covering faces, food, or other focal points"
+  ],
+  "expected_result": "A natural, stylish image resembling an Instagram Story or a casually annotated magazine page: warm, slightly lazy, personal, and genuinely hand-drawn."
+}

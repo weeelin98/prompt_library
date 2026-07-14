@@ -1,0 +1,28 @@
+{
+  "title": "Early Source Engine Photo Recreation",
+  "category": "image-generation",
+  "input": "A reference photo",
+  "prompt": "Recreate the reference photo as a screenshot from an early Source Engine game. Preserve the original subject, composition, camera angle, perspective, and overall scene layout, but fully rebuild every visible element as if it belonged in an early Half-Life 2 or Garry's Mod map. This must look like a complete 3D re-modeling of the scene, not a filter applied to the original photo.",
+  "style_requirements": {
+    "geometry": "Render all people, props, trees, rocks, terrain, and buildings as visibly low-poly 3D models with slightly hard edges, simplified silhouettes, and clear geometric forms.",
+    "materials": "Use low-resolution game textures with limited detail, mild blur, visible repetition, rough normal mapping, and the imperfect quality of early-2000s game assets.",
+    "lighting": "Use the harsh, slightly chaotic, subtly unnatural lighting associated with early Source Engine maps: sharp contrast, uneven illumination, basic baked shadows, and restrained bloom.",
+    "rendering": "Include modest aliasing, dated shader behavior, simple reflections, limited draw-distance detail, and the visual character of an authentic in-engine screenshot."
+  },
+  "preserve": [
+    "core subject",
+    "composition",
+    "viewpoint and perspective",
+    "relative scale and placement of objects",
+    "recognizable scene identity"
+  ],
+  "avoid": [
+    "simple photo filters",
+    "modern photorealistic rendering",
+    "high-poly assets",
+    "ultra-sharp 4K textures",
+    "changing the camera angle or rearranging the scene",
+    "adding unrelated characters, props, text, or interface elements"
+  ],
+  "expected_result": "A recognizable reconstruction of the source photo that convincingly resembles a genuine screenshot captured inside an early Half-Life 2 or Garry's Mod map."
+}

@@ -4,12 +4,14 @@ A curated collection of practical prompts, translated and refined in English for
 
 ## Categories
 
-- **Coding Projects** — Prompts for planning, building, debugging, reviewing, and improving software projects.
-- **Study & Review** — Prompts for learning, revising, summarizing, practicing, and preparing for assessments.
-- **Image Generation** — Prompts for producing illustrations, photographs, designs, and other visual assets.
-- **Writing & Editing** — Prompts for drafting, rewriting, translating, and polishing written content.
-- **Productivity & Research** — Prompts for analysis, organization, decision-making, and research workflows.
-- **Other** — Useful prompts that do not yet fit an established category.
+- **[Image Generation](image-generation/)** — Visual transformations, annotations, and art direction.
+- **[Study & Review](study-and-review/)** — Transcript-grounded tutoring and learning workflows.
+- **[Decision Making](decision-making/)** — Structured, impartial approaches to real-life decisions and disagreements.
+- **[Astrology & Reflection](astrology-and-reflection/)** — Traditional metaphysics prompts framed for cultural reflection.
+- **[Personal Style & Reflection](personal-style-and-reflection/)** — Aesthetic, styling, and reflective self-exploration.
+- **[Life Planning](life-planning/)** — Scenario planning and long-term direction.
+
+Future categories may include Coding Projects, Writing & Editing, Productivity & Research, and other useful workflows.
 
 ## Repository Structure
 

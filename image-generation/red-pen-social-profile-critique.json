@@ -1,0 +1,30 @@
+{
+  "title": "Red-Pen Social Profile Commentary",
+  "category": "image-generation",
+  "input": "A screenshot of a social-media profile or post",
+  "prompt": "Transform the supplied social-media screenshot into a photographed paper printout with subtle shadows, gentle paper texture, and a believable printed surface. Add abundant handwritten Chinese commentary and doodles in red ballpoint pen, reacting to details that are actually visible in the screenshot.",
+  "annotation_style": {
+    "marks": [
+      "arrows",
+      "circles",
+      "underlines",
+      "magnified details",
+      "exclamation marks",
+      "question marks"
+    ],
+    "expressions": [
+      "speechless face",
+      "eye roll",
+      "confused question-mark face"
+    ],
+    "tone": "Write like a witty friend or teacher commenting in the margin: humorous, exaggerated, observant, and a little sharp, but never cruel or personally abusive.",
+    "layout": "Make the page look casually messy yet visually guided, as though it was improvised by hand while still emphasizing the funniest or most important details."
+  },
+  "safety_and_quality": [
+    "Do not invent private facts about the account owner.",
+    "Do not target protected traits, appearance, disability, or other sensitive characteristics.",
+    "Avoid threats, harassment, slurs, or humiliating personal attacks.",
+    "Keep usernames and original interface details legible unless the user asks for anonymization."
+  ],
+  "expected_result": "A believable paper-print effect covered with funny red-pen reactions, with energetic visual clutter, clear focal points, and the charm of spontaneous margin notes."
+}
