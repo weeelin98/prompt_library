@@ -4,18 +4,18 @@ A curated collection of practical prompts, translated and refined in English for
 
 ## Categories
 
-- **[Image Generation](image-generation/)** — Visual transformations, annotations, and art direction.
-- **[Study & Review](study-and-review/)** — Transcript-grounded tutoring and learning workflows.
-- **[Decision Making](decision-making/)** — Structured, impartial approaches to real-life decisions and disagreements.
-- **[Astrology & Reflection](astrology-and-reflection/)** — Traditional metaphysics prompts framed for cultural reflection.
-- **[Personal Style & Reflection](personal-style-and-reflection/)** — Aesthetic, styling, and reflective self-exploration.
-- **[Life Planning](life-planning/)** — Scenario planning and long-term direction.
+- **[Image Generation](https://github.com/weeelin98/prompt_library/tree/main/image-generation)** — Visual transformations, annotations, and art direction.
+- **[Study & Review](https://github.com/weeelin98/prompt_library/tree/main/study-and-review)** — Transcript-grounded tutoring and learning workflows.
+- **[Decision Making](https://github.com/weeelin98/prompt_library/tree/main/decision-making)** — Structured, impartial approaches to real-life decisions and disagreements.
+- **[Astrology & Reflection](https://github.com/weeelin98/prompt_library/tree/main/astrology-and-reflection)** — Traditional metaphysics prompts framed for cultural reflection.
+- **[Personal Style & Reflection](https://github.com/weeelin98/prompt_library/tree/main/personal-style-and-reflection)** — Aesthetic, styling, and reflective self-exploration.
+- **[Life Planning](https://github.com/weeelin98/prompt_library/tree/main/life-planning)** — Scenario planning and long-term direction.
 
 Future categories may include Coding Projects, Writing & Editing, Productivity & Research, and other useful workflows.
 
 ## Repository Structure
 
-Each prompt will be stored as a Markdown file in the most relevant category folder. Prompt files may include:
+Each prompt is stored as a Markdown or JSON file in the most relevant category folder. Prompt files may include:
 
 - A clear title and short purpose statement
 - The polished English prompt
